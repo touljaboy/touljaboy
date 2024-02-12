@@ -3,7 +3,7 @@
 To get you started, let me just tell you, you landed in no ordinary place. This place is exactly where great things are bound to happen in the nearest future, so tag along fella, the future is now. (The future ➡️ command line java apllications)
 
 Technologies I use: 
-<div style="display:flex; flex-direction: row">
+<div style="display: flex; flex-direction: row;">
 	<div>
 		<img width="35" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/> 
 		<p>Java</p>
