@@ -1,3 +1,9 @@
+### Hello, name's Ernest 👋
+
+To get you started, let me just tell you, you landed in no ordinary place. This place is exactly where great things are bound to happen in the nearest future, so tag along fella, the future is now. (The future ➡️ command line java apllications)
+
+Technologies I use: 
+
 <div >
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
@@ -20,3 +26,5 @@
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
 </div>
+
+
