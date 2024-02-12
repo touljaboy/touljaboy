@@ -3,7 +3,7 @@
 To get you started, let me just tell you, you landed in no ordinary place. This place is exactly where great things are bound to happen in the nearest future, so tag along fella, the future is now. (The future ➡️ command line java apllications)
 
 Technologies I use: 
-<div >
+<div style="display:flex">
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
