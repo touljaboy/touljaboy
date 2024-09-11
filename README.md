@@ -1,7 +1,7 @@
 ### Hello, name's Ernest 👋
 
 To get you started, let me just tell you, you landed in no ordinary place. This place is exactly where great things are bound to happen in the nearest future, so tag along fella, the future is now. (The future ➡️ command line java apllications)
-
+<!--
 Technologies I use: 
 
 <div >
@@ -21,7 +21,7 @@ Technologies I use:
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
 </div>
-
+-->
 
 <!--	<img width="35" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/>
